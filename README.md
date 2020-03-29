@@ -1,7 +1,7 @@
 # Learn an Arousal-Valence Speech Front-End Network using Media Data In-the-wild
 > ###### Time: Mon, Nov 12, 2018 1:07 PM
 > ###### Author: Chih-Chuan Lu
-> ###### tags: `research` `paper` `speech emotion recognition` `initialization` `fine-tuning` `media data in-the-wild` `convolutional neural network` `speech front-end network`
+> ###### tags: `speech emotion recognition` `media data in-the-wild` `convolutional neural network` `speech front-end network`
 > [paper link](https://dl.acm.org/citation.cfm?id=3266306)
 
 ## Abstract
